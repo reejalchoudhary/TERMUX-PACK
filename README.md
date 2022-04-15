@@ -7,7 +7,7 @@ TERMUX STARTER PACK (COLLECTION OF 311 TOOLS FOR TERMUX)
 (3)$pkg install php
 (4)$pip2 install lolcat
 (5)$pkg install git
-(6)$git clone https://github.com/TUANB4DUT/TOOLSINSTALLERv3
+(6)$git clone https://github.com/reejalchoudhary/TERMUX-PACK.git
 
 ----------TO LAUNCH TOOLS----------
 
