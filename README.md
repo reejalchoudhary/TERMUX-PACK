@@ -1,26 +1,35 @@
-TERMUX STARTER PACK (COLLECTION OF 311 TOOLS FOR TERMUX)
+# TERMUX STARTER PACK (COLLECTION OF 311 TOOLS FOR TERMUX)
 
-----------INSTALLATION COMMANDS---------- 
+This script contains lot of tool for begginers who use termux.
 
-(1)$apt update && apt upgrade
-(2)$pkg install python python2 vim figlet curl
-(3)$pkg install php
-(4)$pip2 install lolcat
-(5)$pkg install git
-(6)$git clone https://github.com/reejalchoudhary/TERMUX-PACK.git
+# ----------INSTALLATION COMMANDS---------- 
 
-----------TO LAUNCH TOOLS----------
+#### (1)$apt update && apt upgrade
+#### (2)$pkg install python python2 vim figlet curl
+#### (3)$pkg install php
+#### (4)$pip2 install lolcat
+#### (5)$pkg install git
+#### (6)$git clone https://github.com/reejalchoudhary/TERMUX-PACK.git
 
-(1)$cd TOOLSINSTALLERv3
-(2)$chmod +x TUANB4DUT.sh
-(3)$sh TUANB4DUT.sh
+# ----------TO LAUNCH TOOLS----------
 
-INSTA ID = @being._.unique
-TWITTER = @ChoudharyReejal
+#### (1)$cd TOOLSINSTALLERv3
+#### (2)$chmod +x TUANB4DUT.sh
+#### (3)$sh TUANB4DUT.sh
 
-----------CREDIT NOTICE----------
+# ----------CREDIT NOTICE----------
 
-ALL CREDIT OF THIS TOOL OR CODE IS GOES TO:-
+ ALL CREDIT OF THIS TOOL OR CODE IS GOES TO:-
 
 TUAN B4DUT
-INDONESIAN TERMUX ASSOCIATION
+INDONESIAN TERMUX ASSOCIATION.
+
+
+# FOLLOW ME ON😎:-
+#### INSTAGRAM:- www.instagram.com/being._.unique/
+#### TWITTER:- https://twitter.com/ChoudharyReejal
+#### LINKEDIN:- www.linkedin.com/in/reejal-choudhary-532386237
+# CONTACT ME📱:-
+#### GMAIL:- reejalree@gmail.com
+#### MOBILE:- +917018361108
+If you facing any problem in flashing and other issue  you can contact me😁.
