@@ -4,12 +4,12 @@ This script contains lot of tool for begginers who use termux.
 
 # INSTALLATION COMMANDS
 
-(1)$apt update && apt upgrade        
- (2)$pkg install python python2 vim figlet curl        
- (3)$pkg install php          
-(4)$pip2 install lolcat         
- (5)$pkg install git          
- (6)$git clone https://github.com/reejalchoudhary/TERMUX-PACK.git         
+##### (1)$apt update && apt upgrade        
+##### (2)$pkg install python python2 vim figlet curl        
+##### (3)$pkg install php          
+##### (4)$pip2 install lolcat         
+##### (5)$pkg install git          
+##### (6)$git clone https://github.com/reejalchoudhary/TERMUX-PACK.git         
 
 # TO LAUNCH TOOLS
 
