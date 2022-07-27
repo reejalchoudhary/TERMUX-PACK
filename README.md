@@ -2,7 +2,7 @@
 
 This script contains lot of tool for begginers who use termux.
 
-# -------INSTALLATION COMMANDS------- 
+# INSTALLATION COMMANDS
 
 #### (1)$apt update && apt upgrade
 #### (2)$pkg install python python2 vim figlet curl
@@ -11,13 +11,13 @@ This script contains lot of tool for begginers who use termux.
 #### (5)$pkg install git
 #### (6)$git clone https://github.com/reejalchoudhary/TERMUX-PACK.git
 
-# -------TO LAUNCH TOOLS-------
+# TO LAUNCH TOOLS
 
 #### (1)$cd TOOLSINSTALLERv3
 #### (2)$chmod +x TUANB4DUT.sh
 #### (3)$sh TUANB4DUT.sh
 
-# -------CREDIT NOTICE-------
+# CREDIT NOTICE
 
  ALL CREDIT OF THIS TOOL OR CODE IS GOES TO:-
 
@@ -32,4 +32,3 @@ INDONESIAN TERMUX ASSOCIATION.
 # CONTACT ME📱:-
 #### GMAIL:- reejalree@gmail.com
 #### MOBILE:- +917018361108
-If you facing any problem in flashing and other issue  you can contact me😁.
