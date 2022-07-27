@@ -4,12 +4,12 @@ This script contains lot of tool for begginers who use termux.
 
 # INSTALLATION COMMANDS
 
-#### (1)$apt update && apt upgrade
-#### (2)$pkg install python python2 vim figlet curl
-#### (3)$pkg install php
-#### (4)$pip2 install lolcat
-#### (5)$pkg install git
-#### (6)$git clone https://github.com/reejalchoudhary/TERMUX-PACK.git
+(1)$apt update && apt upgrade        
+ (2)$pkg install python python2 vim figlet curl        
+ (3)$pkg install php          
+(4)$pip2 install lolcat         
+ (5)$pkg install git          
+ (6)$git clone https://github.com/reejalchoudhary/TERMUX-PACK.git         
 
 # TO LAUNCH TOOLS
 
@@ -35,8 +35,8 @@ TUAN B4DUT
 </p>
 
 # CONTACT ME📱:-
-#### GMAIL:- reejalree@gmail.com
-#### MOBILE:- +917018361108 
+GMAIL:- reejalree@gmail.com       
+ MOBILE:- +917018361108 
 
 # SUPPORT🙏:-
 <p><a href="https://www.buymeacoffee.com/reejal9981"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="reejal9981" /></a><a href="https://ko-fi.com/reejal9981"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="reejal9981" /></a></p><br><br>
